@@ -1,0 +1,7 @@
+# Reference copy of the OGS open-source frontend — used during development only
+# Not part of the userscript distribution
+ogsgit/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
